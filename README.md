@@ -1,5 +1,5 @@
 
-# **** API REST para Operaciones con Números Romanos ****
+# API REST para Operaciones con Números Romanos 
 
 Este proyecto es una API REST desarrollada en Java utilizando [Javalin](https://javalin.io/). La API permite realizar operaciones matemáticas (suma y multiplicación) con números romanos.
 
