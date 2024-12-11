@@ -1,6 +1,6 @@
 
 # API REST para Operaciones con Números Romanos 
-Proyecto realizado por el estudiante Alvaro Salamanca Peña de IenCI.
+Proyecto realizado por el estudiante **Alvaro Salamanca Peña** de IenCI. 
 
 Este proyecto es una API REST desarrollada en Java utilizando [Javalin](https://javalin.io/). La API permite realizar operaciones matemáticas (suma y multiplicación) con números romanos.
 
